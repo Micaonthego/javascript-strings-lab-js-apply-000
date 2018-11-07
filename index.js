@@ -8,9 +8,5 @@ var topic = "space";
 
 var conversation = `Let's talk about ${topic}!`;
 
-return greeting
 
-return greetSpecialGuest
-
-return conversation
 
